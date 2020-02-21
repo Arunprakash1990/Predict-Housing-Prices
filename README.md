@@ -1,2 +1,2 @@
 # Predict-Housing-Prices
-Sample Project to learn Linear Regression
+Project to predict the housing prices using the supervised learning technique - learn Linear Regression
